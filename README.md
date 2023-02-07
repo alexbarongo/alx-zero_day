@@ -1,1 +1,6 @@
-My first readme
+Basic usage
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
